@@ -3,7 +3,7 @@ body{
   font-family: Helvetica, sans-serif;
   color: #222;
 }
-
+.float {position: fixed; margin-left: 10px; text-decoration: underline;}
 .page{
   margin: 50px auto;
   width: 70%;
@@ -99,7 +99,7 @@ body{
   margin: 40px 0 0 0;
   text-align: center;
 }
- 
+
   .pagination li{
     display: inline;
   }
